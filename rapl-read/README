@@ -3,6 +3,12 @@ Source code credits to https://github.com/deater/uarch-configure/tree/master/rap
 
 Project page: http://web.eece.maine.edu/~vweaver/projects/rapl/
 
+Installation:
+
+1. # modprobe msr
+2. # make
+3. # ./rapl-read
+
 ---
 
 Quick hack showing RAPL read functionality.
