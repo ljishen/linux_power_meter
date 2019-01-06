@@ -1,0 +1,13 @@
+**This repo fixes the compile error**
+Source code credits to https://github.com/deater/uarch-configure/tree/master/rapl-read
+
+Project page: http://web.eece.maine.edu/~vweaver/projects/rapl/
+
+---
+
+Quick hack showing RAPL read functionality.
+
+This was developed into a more-complete PAPI component.
+
+There are better ways for getting this info than using this program.
+
